@@ -2,6 +2,9 @@
   "name": "Segment-Nodejs",
   "version": "0.0.0",
   "private": true,
+  "engines": {
+    "node": "4.1.4"
+  },
   "scripts": {
     "start": "nodemon ./bin/www"
   },
